@@ -1,0 +1,9 @@
+Order : 4
+Table : 6
+Date : Thu May 07 18:31:44 EEST 2020
+Ingredients : 
+1. morcovi    price : 11.0
+2. rosii    price : 5.0
+3. salata    price : 13.0
+
+Total : 29.0
